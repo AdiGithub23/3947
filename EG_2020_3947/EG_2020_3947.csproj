@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\01.png" />
+    <None Remove="Assets\02.png" />
+    <None Remove="Assets\03.png" />
+    <None Remove="Assets\04.png" />
+    <None Remove="Assets\05.png" />
+    <None Remove="Assets\06.png" />
+    <None Remove="Assets\07.png" />
+    <None Remove="Assets\08.png" />
+    <None Remove="Assets\09.png" />
+    <None Remove="Assets\10.png" />
+    <None Remove="Assets\unilogo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\01.png" />
+    <Resource Include="Assets\02.png" />
+    <Resource Include="Assets\03.png" />
+    <Resource Include="Assets\04.png" />
+    <Resource Include="Assets\05.png" />
+    <Resource Include="Assets\06.png" />
+    <Resource Include="Assets\07.png" />
+    <Resource Include="Assets\08.png" />
+    <Resource Include="Assets\09.png" />
+    <Resource Include="Assets\10.png" />
+    <Resource Include="Assets\unilogo.png" />
+  </ItemGroup>
+
+</Project>

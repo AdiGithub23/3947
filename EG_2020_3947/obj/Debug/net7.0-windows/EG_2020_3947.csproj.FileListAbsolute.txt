@@ -1,0 +1,144 @@
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.exe
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.deps.json
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.runtimeconfig.json
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.dll
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.pdb
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.AssemblyReference.cache
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\AddStudent.g.cs
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\DashBoard.g.cs
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\App.g.cs
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947_MarkupCompile.cache
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947_MarkupCompile.lref
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\MainWindow.baml
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\AddStudent.baml
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\DashBoard.baml
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.g.resources
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.GeneratedMSBuildEditorConfig.editorconfig
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.AssemblyInfoInputs.cache
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.AssemblyInfo.cs
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.CoreCompileInputs.cache
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.dll
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\refint\EG_2020_3947.dll
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.pdb
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.genruntimeconfig.cache
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\ref\EG_2020_3947.dll
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\### STUDIES ###\# Computer Engineering\Sem_03\EE 3250 GUI Programming\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.CopyComplete
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.exe
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.deps.json
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.runtimeconfig.json
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.pdb
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.AssemblyReference.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\AddStudent.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\DashBoard.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\App.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947_MarkupCompile.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947_MarkupCompile.lref
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\MainWindow.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\AddStudent.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\DashBoard.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.g.resources
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.GeneratedMSBuildEditorConfig.editorconfig
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.AssemblyInfoInputs.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.AssemblyInfo.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.CoreCompileInputs.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.CopyComplete
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\refint\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.pdb
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.genruntimeconfig.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\ref\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\01\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\App.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.exe
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.deps.json
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.runtimeconfig.json
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.pdb
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.AssemblyReference.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\AddStudent.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\DashBoard.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\App.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947_MarkupCompile.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947_MarkupCompile.lref
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\App.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\MainWindow.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\AddStudent.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\DashBoard.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.g.resources
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.GeneratedMSBuildEditorConfig.editorconfig
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.AssemblyInfoInputs.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.AssemblyInfo.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.CoreCompileInputs.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.CopyComplete
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\refint\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.pdb
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.genruntimeconfig.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\02\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\ref\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.exe
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.deps.json
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.runtimeconfig.json
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.pdb
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.AssemblyReference.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\AddStudent.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\DashBoard.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\App.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947_MarkupCompile.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947_MarkupCompile.lref
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\App.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\MainWindow.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\AddStudent.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\DashBoard.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.g.resources
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.GeneratedMSBuildEditorConfig.editorconfig
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.AssemblyInfoInputs.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.AssemblyInfo.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.CoreCompileInputs.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.CopyComplete
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\refint\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.pdb
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.genruntimeconfig.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\04\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\ref\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.exe
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.deps.json
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.runtimeconfig.json
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\EG_2020_3947.pdb
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.AssemblyReference.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\AddStudent.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\DashBoard.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\App.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947_MarkupCompile.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947_MarkupCompile.lref
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\App.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\MainWindow.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\AddStudent.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\View\DashBoard.baml
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.g.resources
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.GeneratedMSBuildEditorConfig.editorconfig
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.AssemblyInfoInputs.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.AssemblyInfo.cs
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.CoreCompileInputs.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.csproj.CopyComplete
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\refint\EG_2020_3947.dll
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.pdb
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\EG_2020_3947.genruntimeconfig.cache
+F:\### STUDIES ###\# Computer Engineering\Sem_03\# Projects\Desktop Application\Individual WPF Project\### Final ###\05\EG_2020_3947\EG_2020_3947\obj\Debug\net7.0-windows\ref\EG_2020_3947.dll

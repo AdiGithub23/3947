@@ -1,0 +1,244 @@
+﻿<Window x:Class="EG_2020_3947.View.DashBoard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local ="clr-namespace:EG_2020_3947.ViewModel"  ResizeMode="CanResizeWithGrip"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen" 
+        Title="{Binding Title,UpdateSourceTrigger=PropertyChanged}" Height="450" Width="800">
+
+    <Window.Resources>
+        <Style TargetType="GridViewColumnHeader" x:Key="ListViewHeaderStyle">
+            <Setter Property="Background" Value="#FF010015" />
+            <Setter Property="Foreground" Value="#FFD6D6D6" />
+            <Setter Property="FontWeight" Value="UltraBold"  />
+            <Setter Property="FontFamily" Value="Segoe UI"   />
+        </Style>
+    </Window.Resources>
+
+    <Window.DataContext>
+        <local:DashBoardVM/>
+    </Window.DataContext>
+
+    <Grid>
+        <StackPanel>
+            <!--Titles-->
+            <Grid Background="#FF370808" Height="90">
+                <StackPanel>
+                    <TextBlock Margin="0 5" Width="350" TextAlignment="Center" Text="FACULTY OF ENGINEERING" FontSize="25" Foreground="Goldenrod" FontWeight="Bold"/>
+                    <TextBlock Margin="0 0 0 5" Width="350" TextAlignment="Center" Text="UNIVERSITY OF RUHUNA"   FontSize="25" Foreground="Goldenrod" FontWeight="Bold"/>
+                </StackPanel>
+            </Grid>
+
+            <Grid Height="335">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2.3*"/>
+                </Grid.ColumnDefinitions>
+
+                <!--Info Sheet-->
+                <Grid Grid.Column="0" Background="BlanchedAlmond">
+
+                    <StackPanel Margin="15">
+
+                        <Image  Margin="0 10" Width="75" Height="75" Source="{Binding SelectedUser.ImgName,UpdateSourceTrigger=PropertyChanged}" />
+                        <TextBlock Text="{Binding SelectedUser.FullName, UpdateSourceTrigger=PropertyChanged}"   Margin="0 5 5 5" TextAlignment="Center" Width="180" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="Black" FontWeight="ExtraBold" FontSize="15"/>
+
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="3*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Grid.Column="0">
+                                <Image Source="/Assets/BtnImgs/IDCard.png" Width="25"  Height="25" Margin="5 10" />
+                                <Image Source="/Assets/BtnImgs/email.png" Width="25"   Height="25" Margin="5 10" />
+                                <Image Source="/Assets/BtnImgs/Contact.png" Width="25" Height="25" Margin="5 10" />
+                                <Image Source="/Assets/BtnImgs/Depart.png" Width="25"  Height="25" Margin="5 10" />
+                                <!--<TextBlock Text="NIC        :" Margin="5 10" TextAlignment="Center" Width="100" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Black" FontWeight="Bold" FontSize="12"/>
+                                <TextBlock Text="Email      :" Margin="5 10" TextAlignment="Center" Width="100" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Black" FontWeight="Bold" FontSize="12"/>
+                                <TextBlock Text="Contact No :" Margin="5 10" TextAlignment="Center" Width="100" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Black" FontWeight="Bold" FontSize="12"/>
+                                <TextBlock Text="Department :" Margin="5 10" TextAlignment="Center" Width="100" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Black" FontWeight="Bold" FontSize="12"/>-->
+                            </StackPanel>
+                            <StackPanel Grid.Column="1">
+                                <TextBlock Text="{Binding SelectedUser.NIC,UpdateSourceTrigger=PropertyChanged}"        Margin="3 10" TextAlignment="Left" Width="100" Height="25" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Black" FontWeight="Bold" FontSize="12"/>
+                                <TextBlock Text="{Binding SelectedUser.EMAIL,UpdateSourceTrigger=PropertyChanged}"      Margin="3 10" TextAlignment="Left" Width="100" Height="25" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Black" FontWeight="Bold" FontSize="12"/>
+                                <TextBlock Text="{Binding SelectedUser.ContactNo,UpdateSourceTrigger=PropertyChanged}"  Margin="3 10" TextAlignment="Left" Width="100" Height="25" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Black" FontWeight="Bold" FontSize="12"/>
+                                <TextBlock Text="{Binding SelectedUser.Department,UpdateSourceTrigger=PropertyChanged}" Margin="3 10" TextAlignment="Left" Width="100" Height="25" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="Black" FontWeight="Bold" FontSize="12"/>
+                            </StackPanel>
+
+                        </Grid>
+                    </StackPanel>
+
+                </Grid>
+
+                <!--ListView + Buttons-->
+                <Grid Grid.Column="1">
+                    <StackPanel>
+
+                        <!--ListView-->
+                        <!-- region ListView-->
+                        <!--
+                        <ListView Name="ItemList"
+                            SelectedItem="{Binding SelectedStudent, UpdateSourceTrigger=PropertyChanged}"
+                            ItemsSource ="{Binding Students, UpdateSourceTrigger=PropertyChanged}"
+                            SelectionChanged="Listview_SelectionChanged" 
+                            HorizontalAlignment="Left" Margin="65 20" Height="200" 
+                            IsSynchronizedWithCurrentItem="True"
+                            Foreground="#FF00A2CC" BorderBrush="#FF303131" VerticalAlignment="Top" Background="#FFE0FAFF">
+                                                       
+                            <ListView.ItemContainerStyle>
+                                <Style TargetType="ListViewItem">
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                    <Setter Property="VerticalContentAlignment" Value="Center" />
+                                </Style>
+                            </ListView.ItemContainerStyle>
+
+                            <ListView.ContextMenu>
+                                <ContextMenu>
+                                </ContextMenu>
+                            </ListView.ContextMenu>
+
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn DisplayMemberBinding="{Binding Id, UpdateSourceTrigger=PropertyChanged}" 
+                                        Header="First Name" Width="120"  HeaderContainerStyle="{StaticResource ListViewHeaderStyle}" />
+                                    <GridViewColumn DisplayMemberBinding="{Binding Name, UpdateSourceTrigger=PropertyChanged}" 
+                                        Header="Last Name" Width="120"  HeaderContainerStyle="{StaticResource ListViewHeaderStyle}" />
+                                    <GridViewColumn DisplayMemberBinding="{Binding Age, UpdateSourceTrigger=PropertyChanged}" 
+                                        Header="DOB" Width="100"  HeaderContainerStyle="{StaticResource ListViewHeaderStyle}" />
+                                    <GridViewColumn DisplayMemberBinding="{Binding Age, UpdateSourceTrigger=PropertyChanged}" 
+                                        Header="Age" Width="40"  HeaderContainerStyle="{StaticResource ListViewHeaderStyle}" />
+                                    <GridViewColumn DisplayMemberBinding="{Binding GPA, UpdateSourceTrigger=PropertyChanged}" 
+                                        Header="GPA" Width="40"  HeaderContainerStyle="{StaticResource ListViewHeaderStyle}" />
+                                </GridView>
+                            </ListView.View>
+
+                            <ListView.ItemTemplate >
+                                <DataTemplate>
+
+                                    <StackPanel Margin="33 0 0 0" Width="1050" Background="Transparent" Orientation="Horizontal" >
+                                        <Image Width="35" Height="35" Margin="0" Source="{Binding ImgName}" />
+                                        <TextBlock Foreground="Black" FontSize="13" Text="{Binding FirstName,UpdateSourceTrigger=PropertyChanged}" />
+                                        <TextBlock Foreground="Black" FontSize="13" Text="{Binding LastName,UpdateSourceTrigger=PropertyChanged}"  />
+                                        <TextBlock Foreground="Black" FontSize="13" Text="{Binding DateOfBirth,UpdateSourceTrigger=PropertyChanged}"/>
+                                        <TextBlock Foreground="Black" FontSize="13" Text="{Binding Age,UpdateSourceTrigger=PropertyChanged}"  />
+                                        <TextBlock Foreground="Black" FontSize="13" Text="{Binding GPA,UpdateSourceTrigger=PropertyChanged}"  />
+                                    </StackPanel>
+
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+
+                        </ListView>
+                        -->
+                        <!-- endregion-->
+                        
+
+                        <StackPanel Width="500" >
+                            
+                            <StackPanel Margin="10 10 0 10" Height="30" Width="500" HorizontalAlignment="Right"  Background="Transparent" Orientation="Horizontal">
+                                <TextBlock Width="45" FontSize="15" TextAlignment="Center" Margin="15 10 0 10" HorizontalAlignment="Center" VerticalAlignment="Center"  Foreground="Black" FontWeight="ExtraBold" />
+                                <TextBlock Text="First Name"    FontSize="15" TextAlignment="Center" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontWeight="ExtraBold" />
+                                <TextBlock Text="Last Name"     FontSize="15" TextAlignment="Center" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontWeight="ExtraBold" />
+                                <TextBlock Text="Date of Birth" FontSize="15" TextAlignment="Center" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontWeight="ExtraBold" />
+                                <TextBlock Text="Age"           FontSize="15" TextAlignment="Center" Width="75"  HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontWeight="ExtraBold" />
+                                <TextBlock Text="GPA"           FontSize="15" TextAlignment="Center" Width="50"  HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontWeight="ExtraBold" />
+                            </StackPanel>
+
+                            <ListView x:Name="Listview" SelectionChanged="Listview_SelectionChanged" Background="Transparent"                       
+                                      SelectedItem="{Binding SelectedUser}" HorizontalAlignment="Left" Margin="0"
+                                      ItemsSource ="{Binding StudentList}"  Height="210" Width="500" >
+                                
+                                <ListView.ItemTemplate >
+                                    <DataTemplate>
+
+                                        <StackPanel Margin="10 0 0 0" Width="500" HorizontalAlignment="Right"  Orientation="Horizontal" Background="Transparent" >
+                                            <Image Width="30" Height="30" Margin="0 0 15 0" Source="{Binding ImgName}" />
+                                            <TextBlock Width="100" Margin="0 5" Height="20" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding FirstName,UpdateSourceTrigger=PropertyChanged}"   FontWeight="Bold" Foreground="Black"  />
+                                            <TextBlock Width="100" Margin="0 5" Height="20" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding LastName,UpdateSourceTrigger=PropertyChanged}"    FontWeight="Bold" Foreground="Black"  />
+                                            <TextBlock Width="100" Margin="0 5" Height="20" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding DateOfBirth,UpdateSourceTrigger=PropertyChanged}" FontWeight="Bold" Foreground="Black"  />
+                                            <TextBlock Width="75"  Margin="0 5" Height="20" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding Age,UpdateSourceTrigger=PropertyChanged}"         FontWeight="Bold" Foreground="Black"  />
+                                            <TextBlock Width="50"  Margin="0 5" Height="20" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding GPA,UpdateSourceTrigger=PropertyChanged}"         FontWeight="Bold" Foreground="Black"  />
+                                        </StackPanel>
+
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>                           
+                        </StackPanel>
+
+
+                        <!--Buttons-->
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="20 10">
+
+                            <Button Content="A D D" Style="{StaticResource mainbutten}" Command="{Binding AddNewCommand}" x:Name="CreateButton"
+                                    HorizontalAlignment="Left" Margin="15 5" VerticalAlignment="Top" Width="110" >
+                                <!--<Button.Template>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border BorderThickness="2" CornerRadius="10" Width="100" Height="30" >
+                                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Button.Template>-->
+                                <!--<StackPanel Orientation="Horizontal">
+                                    <Label Content="A D D" Foreground="White" />
+                                </StackPanel>-->
+                            </Button>
+
+                            <!--<Button Command="{Binding LoadStudentCommand}" x:Name="ReadButton" Background="Transparent" 
+                            HorizontalAlignment="Left" Margin="10 12.5" VerticalAlignment="Top" Width="100" >
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}" BorderThickness="2" BorderBrush="Black"
+                                         CornerRadius="10" Width="100" Height="30" >
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/Images/readicon.png"/>
+                                <Label Content="Read" Margin="10 0 20 0" Foreground="Wheat" />
+                            </StackPanel>
+                        </Button>-->
+
+                            <Button Content="M O D I F Y" Style="{StaticResource mainbutten}" Command="{Binding ModifyCurrentCommand}" x:Name="UpdateButton"
+                            HorizontalAlignment="Left" Margin="15 5" VerticalAlignment="Top" Width="110" >
+                                <!--<Button.Template>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Background="{TemplateBinding Background}" BorderThickness="2" BorderBrush="Blue"
+                                         CornerRadius="10" Width="100" Height="30" >
+                                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Button.Template>-->
+                                <!--<StackPanel Orientation="Horizontal">
+                                    <Label Content="M O D I F Y" Foreground="White" />
+                                </StackPanel>-->
+                            </Button>
+
+                            <Button Content="R E M O V E" Style="{StaticResource mainbutten}" Command="{Binding RemoveAtCommand}" x:Name="DeleteButton"
+                            HorizontalAlignment="Left" Margin="15 5" VerticalAlignment="Top" Width="110" >
+                                <!--<Button.Template>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Background="{TemplateBinding Background}" BorderThickness="2" BorderBrush="Blue"
+                                         CornerRadius="10" Width="100" Height="30" >
+                                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Button.Template>-->
+                                <!--<StackPanel Orientation="Horizontal">
+                                    <Label Content="R E M O V E" Foreground="White" />
+                                </StackPanel>-->
+                            </Button>
+
+                        </StackPanel>
+                        
+                        
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </StackPanel>
+
+    </Grid>
+    
+    
+</Window>
